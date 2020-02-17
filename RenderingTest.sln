@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenderingTest", "RenderingTest\RenderingTest.csproj", "{99BF7881-BF0F-4B85-9A55-615297F92465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BF7881-BF0F-4B85-9A55-615297F92465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BF7881-BF0F-4B85-9A55-615297F92465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BF7881-BF0F-4B85-9A55-615297F92465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BF7881-BF0F-4B85-9A55-615297F92465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2365C4-FA84-4A91-AD19-D18E06E7976D}
+	EndGlobalSection
+EndGlobal
