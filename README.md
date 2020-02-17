@@ -13,11 +13,11 @@ The goal of this is to
 Currently, when rendering is done at 1:1 between the base resolution and virtual resolution, everything
 look proper. However, when cutting the base resolution in half, only the top-left quadrant of the virtual resolution seems to be rendered.  See the images below to go with this.
 
-**Only top left quadrant is rendered when half base resolution**
-![error at half resolution]()
+**Only top left quadrant is rendered when half base resolution**  
+![](https://raw.githubusercontent.com/manbeardgames/RenderingTest/master/half_resolution_render.png)
 
-**Renders correctly when base and virtual resolution match**
-![correct render]()
+**Renders correctly when base and virtual resolution match**  
+![](https://raw.githubusercontent.com/manbeardgames/RenderingTest/master/full_resolution_render.png)
 
 
 
