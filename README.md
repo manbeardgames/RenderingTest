@@ -11,6 +11,13 @@ The goal of this is to
 
 # What Isn't Working.
 Currently, when rendering is done at 1:1 between the base resolution and virtual resolution, everything
-look proper. However, when cutting the base resolution in half, only the top-left quadrant of the virtual resolution seems to be rendered.
+look proper. However, when cutting the base resolution in half, only the top-left quadrant of the virtual resolution seems to be rendered.  See the images below to go with this.
+
+**Only top left quadrant is rendered when half base resolution**
+![error at half resolution]()
+
+**Renders correctly when base and virtual resolution match**
+![correct render]()
+
 
 
